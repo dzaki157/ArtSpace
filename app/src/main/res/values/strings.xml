@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="artwork1">Lukisan 1 : faceless</string>
+    <string name="artwork2">Lukisan 2 : dance girl</string>
+    <string name="artwork3">Lukisan 3 : blue face sea</string>
+    <string name="artist1">Dzaki Anwar Z</string>
+    <string name="artist2">Dzaki Anwar Z</string>
+    <string name="artist3">Dzaki Anwar Z</string>
+</resources>
